@@ -93,6 +93,7 @@
 }
 .card2{
     align-items: center;
+    cursor: pointer;
 }
 .our-blog-section{
     padding-top: 35px;
