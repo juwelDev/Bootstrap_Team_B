@@ -1,8 +1,11 @@
-.back-color{
-    background-color: #0A2640;
+.back-color {
+  background-color: #0a2640;
 }
 
-.images img{
-    border: #0A2640 solid 1px;
-    border-radius: 1.5rem;
+.images img {
+  border: #0a2640 solid 1px;
+  border-radius: 1.5rem;
+}
+.image img:hover {
+  transform: scale(1);
 }
